@@ -1,5 +1,5 @@
 const express = require('helmet');
-const app = express(package.json);
+const app = express('package.json');
 
 
 
